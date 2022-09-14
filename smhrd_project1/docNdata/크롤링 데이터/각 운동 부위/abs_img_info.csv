@@ -1,0 +1,284 @@
+index,training_name,training_index
+1,Barbell Jammers,1
+2,Barbell Jammers,2
+3,Barbell Jammers,3
+4,Barbell Jammers,4
+5,Barbell Jammers,5
+6,Barbell Jammers,6
+7,Bird-dog,1
+8,Bird-dog,2
+9,Bird-dog,3
+10,Bodyweight Squat,1
+11,Bodyweight Squat,2
+12,Bodyweight Squat,3
+13,Bodyweight Squat,4
+14,BOSU¢ç Lateral Jumps,1
+15,BOSU¢ç Lateral Jumps,2
+16,BOSU¢ç Lateral Jumps,3
+17,BOSU¢ç Lateral Jumps,4
+18,BOSU¢ç Lateral Jumps,5
+19,BOSU¢ç Squat Jumps,1
+20,BOSU¢ç Squat Jumps,2
+21,BOSU¢ç Squat Jumps,3
+22,BOSU¢ç Squat Jumps,4
+23,Childs Pose,1
+24,Cobra Exercise,1
+25,Cobra Exercise,2
+26,Cobra Exercise,3
+27,Crunch,1
+28,Crunch,2
+29,Decline Plank,1
+30,Dirty Dog,1
+31,Dirty Dog,2
+32,Forward Lunge with Arm Drivers,1
+33,Forward Lunge with Arm Drivers,2
+34,Forward Lunge,1
+35,Forward Lunge,2
+36,Forward Stepping over Cones,1
+37,Forward Stepping over Cones,2
+38,Forward Stepping over Cones,3
+39,Forward Stepping over Cones,4
+40,Forward Stepping over Cones,5
+41,Forward Stepping over Cones,6
+42,Forward Stepping over Cones,7
+43,Forward Stepping over Cones,8
+44,Front Plank,1
+45,Front Plank,2
+46,Glute Activation Lunges,1
+47,Glute Activation Lunges,2
+48,Glute Activation Lunges,3
+49,Glute Activation Lunges,4
+50,Glute Activation Lunges,5
+51,Glute Bridge Exercise,1
+52,Glute Bridge Exercise,2
+53,Glute Bridge,1
+54,Glute Bridge,2
+55,Half-kneeling Hay Baler,1
+56,Half-kneeling Hay Baler,2
+57,Hexagon Drill,1
+58,Hexagon Drill,2
+59,Hexagon Drill,3
+60,Hexagon Drill,4
+61,Hexagon Drill,5
+62,High Plank T-spine Rotation,1
+63,High Plank T-spine Rotation,2
+64,High Plank T-spine Rotation,3
+65,High Plank T-spine Rotation,4
+66,Lateral Over Unders,1
+67,Lateral Over Unders,10
+68,Lateral Over Unders,11
+69,Lateral Over Unders,2
+70,Lateral Over Unders,3
+71,Lateral Over Unders,4
+72,Lateral Over Unders,5
+73,Lateral Over Unders,6
+74,Lateral Over Unders,7
+75,Lateral Over Unders,8
+76,Lateral Over Unders,9
+77,Lunge with Elbow Instep,1
+78,Lunge with Elbow Instep,2
+79,Lunge with Elbow Instep,3
+80,Lunge with Elbow Instep,4
+81,Lunge with Elbow Instep,5
+82,Lunge with Overhead Press,1
+83,Lunge with Overhead Press,2
+84,Lunge with Overhead Press,3
+85,Lunge with Overhead Press,4
+86,Medicine Ball Lunge to Chest Pass,1
+87,Medicine Ball Lunge to Chest Pass,2
+88,Medicine Ball Lunge to Chest Pass,3
+89,Medicine Ball Lunge to Chest Pass,4
+90,Medicine Ball Lunge to Chest Pass,5
+91,Medicine Ball Push-ups,1
+92,Medicine Ball Push-ups,2
+93,Medicine Ball Push-ups,3
+94,Medicine Ball Push-ups,4
+95,Medicine Ball Push-ups,5
+96,Partner Assisted Bodyweight Squats,1
+97,Partner Assisted Bodyweight Squats,2
+98,Partner Assisted Bodyweight Squats,3
+99,Partner Tricep Extension,1
+100,Partner Tricep Extension,2
+101,Partner Tricep Extension,3
+102,Partner Tricep Extension,4
+103,Partner Tricep Extension,5
+104,Plank-ups,1
+105,Plank-ups,2
+106,Plank-ups,3
+107,Plank-ups,4
+108,Plank-ups,5
+109,Prone ABC's,1
+110,Prone ABC's,2
+111,Prone ABC's,3
+112,Pull-over Crunch,1
+113,Pull-over Crunch,2
+114,Pull-over Crunch,3
+115,Quadruped Bent-knee Hip Extensions,1
+116,Quadruped Bent-knee Hip Extensions,2
+117,Reverse Ab Crunch,1
+118,Reverse Ab Crunch,2
+119,Reverse Lunge with Rotation,1
+120,Reverse Lunge with Rotation,2
+121,Reverse Lunge with Rotation,3
+122,Roll Out,1
+123,Roll Out,2
+124,Roll Out,3
+125,Roll Out,4
+126,Roll Out,5
+127,Russian Twist,1
+128,Russian Twist,2
+129,Russian Twist,3
+130,Russian Twist,4
+131,Seated Crunch,1
+132,Seated Crunch,2
+133,Seated Medicine Ball Trunk Rotations,1
+134,Seated Medicine Ball Trunk Rotations,2
+135,Seated Medicine Ball Trunk Rotations,3
+136,Seated Side-Straddle Stretch,1
+137,Seated Side-Straddle Stretch,2
+138,Seated Side-Straddle Stretch,3
+139,Seated Straddle with Side Reaches,1
+140,Seated Straddle with Side Reaches,2
+141,Seated Straddle with Side Reaches,3
+142,Seated Straddle with Side Reaches,4
+143,Seated Straddle with Side Reaches,5
+144,Side Plank (Modified),1
+145,Side Plank (Modified),2
+146,Side Plank - modified,1
+147,Side Plank - modified,2
+148,Side Plank with Straight Leg,1
+149,Side Plank with Straight Leg,2
+150,Side Plank,1
+151,Side-lying Arm Rolls,1
+152,Side-lying Arm Rolls,2
+153,Side-lying Arm Rolls,3
+154,Single Arm Plank,1
+155,Single Arm Plank,2
+156,Single Leg Stand,1
+157,Single Leg Stand,2
+158,Single-arm Medicine Ball Push-up,1
+159,Single-arm Medicine Ball Push-up,2
+160,Single-arm Medicine Ball Push-up,3
+161,Single-arm Medicine Ball Push-up,4
+162,Single-leg Stand with Reaches,1
+163,Single-leg Stand with Reaches,2
+164,Single-leg Stand with Reaches,3
+165,Single-leg Stand with Reaches,4
+166,Single-leg Stand with Reaches,5
+167,Single-leg Stand with Reaches,6
+168,Squat to Overhead Raise,1
+169,Squat to Overhead Raise,2
+170,Squat to Overhead Raise,3
+171,Stability Ball Knee Tucks,1
+172,Stability Ball Knee Tucks,2
+173,Stability Ball Knee Tucks,3
+174,Stability Ball Knee Tucks,4
+175,Stability Ball Knee Tucks,5
+176,Stability Ball Pikes,1
+177,Stability Ball Pikes,2
+178,Stability Ball Pikes,3
+179,Stability Ball Pikes,4
+180,Stability Ball Prone Walkout,1
+181,Stability Ball Prone Walkout,2
+182,Stability Ball Prone Walkout,3
+183,Stability Ball Sit-ups  Crunches,1
+184,Stability Ball Sit-ups  Crunches,2
+185,Standing Anti-rotation Press,1
+186,Standing Anti-rotation Press,2
+187,Standing Crunch,1
+188,Standing Crunch,2
+189,Standing Gate Openers (Frankensteins),1
+190,Standing Gate Openers (Frankensteins),2
+191,Standing Gate Openers (Frankensteins),3
+192,Standing Gate Openers (Frankensteins),4
+193,Standing Hamstrings Curl,1
+194,Standing Hamstrings Curl,2
+195,Standing Hay Baler,1
+196,Standing Hay Baler,2
+197,Standing Hip Abduction,1
+198,Standing Hip Abduction,2
+199,Standing Hip Adduction,1
+200,Standing Hip Adduction,2
+201,Standing Leg Extension,1
+202,Standing Leg Extension,2
+203,Standing Leg Extension,3
+204,Standing Single-leg Cable Rotation,1
+205,Standing Single-leg Cable Rotation,2
+206,Standing Single-leg Cable Rotation,3
+207,Standing Trunk Rotation,1
+208,Standing Trunk Rotation,2
+209,Standing Trunk Rotation,3
+210,Supine Bicycle Crunches,1
+211,Supine Bicycle Crunches,2
+212,Supine Bicycle Crunches,3
+213,Supine Dead Bug,1
+214,Supine Dead Bug,2
+215,Supine Dead Bug,3
+216,Supine Dead Bug,4
+217,Supine Hollowing with Lower Extremity Movements,1
+218,Supine Hollowing with Lower Extremity Movements,2
+219,Supine Hollowing with Lower Extremity Movements,3
+220,Supine Pelvic Tilts,1
+221,Supine Pelvic Tilts,2
+222,Supine Reverse Marches,1
+223,Supine Reverse Marches,2
+224,Supine Reverse Marches,3
+225,Supine Rotator Cuff,1
+226,Supine Rotator Cuff,2
+227,Supine Rotator Cuff,3
+228,Supine Shoulder Roll,1
+229,Supine Shoulder Roll,2
+230,Supine Snow Angel (Wipers) Exercise,1
+231,Supine Snow Angel (Wipers) Exercise,2
+232,Supine Snow Angel (Wipers) Exercise,3
+233,Supine Spinal Twist with Rib Grab and Progressions,1
+234,Supine Spinal Twist with Rib Grab and Progressions,10
+235,Supine Spinal Twist with Rib Grab and Progressions,2
+236,Supine Spinal Twist with Rib Grab and Progressions,3
+237,Supine Spinal Twist with Rib Grab and Progressions,4
+238,Supine Spinal Twist with Rib Grab and Progressions,5
+239,Supine Spinal Twist with Rib Grab and Progressions,6
+240,Supine Spinal Twist with Rib Grab and Progressions,7
+241,Supine Spinal Twist with Rib Grab and Progressions,8
+242,Supine Spinal Twist with Rib Grab and Progressions,9
+243,Supine Suitcase Pass,1
+244,Supine Suitcase Pass,2
+245,Supine Suitcase Pass,3
+246,TRX ¢ç Atomic Push-up,1
+247,TRX ¢ç Atomic Push-up,2
+248,TRX ¢ç Atomic Push-up,3
+249,TRX ¢ç Atomic Push-up,4
+250,TRX ¢ç Back Row,1
+251,TRX ¢ç Back Row,2
+252,TRX ¢ç Back Row,3
+253,TRX ¢ç Biceps Curl,1
+254,TRX ¢ç Biceps Curl,2
+255,TRX ¢ç Biceps Curl,3
+256,TRX ¢ç Biceps Curl,4
+257,TRX ¢ç Chest Press,1
+258,TRX ¢ç Chest Press,2
+259,TRX ¢ç Front Rollout,1
+260,TRX ¢ç Front Rollout,2
+261,TRX ¢ç Front Rollout,3
+262,TRX ¢ç Single-arm Chest Press,1
+263,TRX ¢ç Single-arm Chest Press,2
+264,TRX ¢ç Single-arm Chest Press,3
+265,TRX ¢ç Single-arm Row,1
+266,TRX ¢ç Single-arm Row,2
+267,TRX ¢ç Suspended Knee Tucks,1
+268,TRX ¢ç Suspended Knee Tucks,2
+269,TRX ¢ç Suspended Knee Tucks,3
+270,TRX ¢ç Suspended Lunge,1
+271,TRX ¢ç Suspended Lunge,2
+272,TRX ¢ç Suspended Lunge,3
+273,TRX ¢ç Suspended Pike,1
+274,TRX ¢ç Suspended Pike,2
+275,TRX ¢ç Suspended Pike,3
+276,Upward Facing Dog,1
+277,Upward Facing Dog,2
+278,Upward Facing Dog,3
+279,V Sit Partner Rotations,1
+280,V Sit Partner Rotations,2
+281,V Sit Partner Rotations,3
+282,V Sit Partner Rotations,4
+283,V-twist,1

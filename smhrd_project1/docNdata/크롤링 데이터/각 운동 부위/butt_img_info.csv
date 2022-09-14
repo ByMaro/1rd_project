@@ -1,0 +1,353 @@
+index,training_name,training_index
+1,Agility Ladde,Agility Ladder
+2,Alternate Leg Push-off,1
+3,Alternate Leg Push-off,2
+4,Alternate Leg Push-off,3
+5,Back Squat,1
+6,Back Squat,2
+7,Barbell Jammers,1
+8,Barbell Jammers,2
+9,Barbell Jammers,3
+10,Barbell Jammers,4
+11,Barbell Jammers,5
+12,Barbell Jammers,6
+13,Bird-dog,1
+14,Bird-dog,2
+15,Bird-dog,3
+16,Bodyweight Squat,1
+17,Bodyweight Squat,2
+18,Bodyweight Squat,3
+19,Bodyweight Squat,4
+20,BOSU¢ç Lateral Jumps,1
+21,BOSU¢ç Lateral Jumps,2
+22,BOSU¢ç Lateral Jumps,3
+23,BOSU¢ç Lateral Jumps,4
+24,BOSU¢ç Lateral Jumps,5
+25,BOSU¢ç Squat Jumps,1
+26,BOSU¢ç Squat Jumps,2
+27,BOSU¢ç Squat Jumps,3
+28,BOSU¢ç Squat Jumps,4
+29,Box Jumps,1
+30,Box Jumps,2
+31,Box Jumps,3
+32,Box Jumps,4
+33,Box Jumps,5
+34,Bulgarian Split Squat,1
+35,Bulgarian Split Squat,2
+36,Childs Pose,1
+37,Contralateral Limb Raises,1
+38,Contralateral Limb Raises,2
+39,Contralateral Limb Raises,3
+40,Cycled Split-Squat Jump,1
+41,Cycled Split-Squat Jump,2
+42,Cycled Split-Squat Jump,3
+43,Cycled Split-Squat Jump,4
+44,Dirty Dog,1
+45,Dirty Dog,2
+46,Downward-facing Dog,1
+47,Downward-facing Dog,2
+48,Downward-facing Dog,3
+49,Downward-facing Dog,4
+50,Elevated Glute Bridge,1
+51,Elevated Glute Bridge,2
+52,Forward Cone Jumps,1
+53,Forward Cone Jumps,10
+54,Forward Cone Jumps,11
+55,Forward Cone Jumps,12
+56,Forward Cone Jumps,2
+57,Forward Cone Jumps,3
+58,Forward Cone Jumps,4
+59,Forward Cone Jumps,5
+60,Forward Cone Jumps,6
+61,Forward Cone Jumps,7
+62,Forward Cone Jumps,8
+63,Forward Cone Jumps,9
+64,Forward Hurdle Run,1
+65,Forward Hurdle Run,2
+66,Forward Hurdle Run,3
+67,Forward Linear Jumps,1
+68,Forward Linear Jumps,2
+69,Forward Linear Jumps,3
+70,Forward Linear Jumps,4
+71,Forward Linear Jumps,5
+72,Forward Linear Jumps,6
+73,Forward Lunge with Arm Drivers,1
+74,Forward Lunge with Arm Drivers,2
+75,Forward Lunge,1
+76,Forward Lunge,2
+77,Forward Stepping over Cones,1
+78,Forward Stepping over Cones,2
+79,Forward Stepping over Cones,3
+80,Forward Stepping over Cones,4
+81,Forward Stepping over Cones,5
+82,Forward Stepping over Cones,6
+83,Forward Stepping over Cones,7
+84,Forward Stepping over Cones,8
+85,Front Squat,1
+86,Front Squat,2
+87,Front Squat,3
+88,Glute Activation Lunges,1
+89,Glute Activation Lunges,2
+90,Glute Activation Lunges,3
+91,Glute Activation Lunges,4
+92,Glute Activation Lunges,5
+93,Glute Bridge Exercise,1
+94,Glute Bridge Exercise,2
+95,Glute Bridge Single Leg Progression,1
+96,Glute Bridge Single Leg Progression,2
+97,Glute Bridge,1
+98,Glute Bridge,2
+99,Glute Press,1
+100,Glute Press,2
+101,Goblet Squat,1
+102,Goblet Squat,2
+103,Halo,1
+104,Halo,2
+105,Halo,3
+106,Hexagon Drill,1
+107,Hexagon Drill,2
+108,Hexagon Drill,3
+109,Hexagon Drill,4
+110,Hexagon Drill,5
+111,Hip Bridge,1
+112,Hip Bridge,2
+113,Hip Hinge,1
+114,Hip Hinge,2
+115,Hip Rotations (Push-up Position),1
+116,Hip Rotations (Push-up Position),2
+117,Hip Rotations (Push-up Position),3
+118,Hip Rotations (Push-up Position),4
+119,Inverted Flyers,1
+120,Inverted Flyers,2
+121,Inverted Flyers,3
+122,Inverted Flyers,4
+123,Inverted Flyers,5
+124,Jump and Reach,1
+125,Jump and Reach,2
+126,Jump and Reach,3
+127,Kneeling Hip-flexor Stretch,1
+128,Kneeling Hip-flexor Stretch,2
+129,Kneeling TA Stretch,1
+130,Kneeling TA Stretch,2
+131,Lateral Cone Jumps,1
+132,Lateral Cone Jumps,2
+133,Lateral Cone Jumps,3
+134,Lateral Cone Jumps,4
+135,Lateral Cone Jumps,5
+136,Lateral Cone Jumps,6
+137,Lateral Cone Jumps,7
+138,Lateral Lunge,1
+139,Lateral Lunge,2
+140,Lateral Lunge,3
+141,Lateral Over Unders,1
+142,Lateral Over Unders,10
+143,Lateral Over Unders,11
+144,Lateral Over Unders,2
+145,Lateral Over Unders,3
+146,Lateral Over Unders,4
+147,Lateral Over Unders,5
+148,Lateral Over Unders,6
+149,Lateral Over Unders,7
+150,Lateral Over Unders,8
+151,Lateral Over Unders,9
+152,Lateral Shuffles,1
+153,Lateral Shuffles,2
+154,Lateral Shuffles,3
+155,Lateral Shuffles,4
+156,Leg Crossover Stretch,1
+157,Leg Crossover Stretch,2
+158,Leg Crossover Stretch,3
+159,Lunge with Elbow Instep,1
+160,Lunge with Elbow Instep,2
+161,Lunge with Elbow Instep,3
+162,Lunge with Elbow Instep,4
+163,Lunge with Elbow Instep,5
+164,Lunge with Overhead Press,1
+165,Lunge with Overhead Press,2
+166,Lunge with Overhead Press,3
+167,Lunge with Overhead Press,4
+168,Lunge,1
+169,Lunge,2
+170,Lying Hamstrings Curl,1
+171,Lying Hamstrings Curl,2
+172,Lying Hamstrings Curl,3
+173,Lying Hamstrings Curl,4
+174,Lying Hamstrings Curl,5
+175,Medicine Ball Lunge to Chest Pass,1
+176,Medicine Ball Lunge to Chest Pass,2
+177,Medicine Ball Lunge to Chest Pass,3
+178,Medicine Ball Lunge to Chest Pass,4
+179,Medicine Ball Lunge to Chest Pass,5
+180,Mountain Climbers,1
+181,Mountain Climbers,2
+182,Mountain Climbers,3
+183,Overhead Medicine Ball Throws,1
+184,Overhead Medicine Ball Throws,2
+185,Overhead Medicine Ball Throws,3
+186,Overhead Slams,1
+187,Overhead Slams,2
+188,Overhead Slams,3
+189,Overhead Slams,4
+190,Partner Assisted Bodyweight Squats,1
+191,Partner Assisted Bodyweight Squats,2
+192,Partner Assisted Bodyweight Squats,3
+193,Partner Standing Row with Resistance Tubing,1
+194,Partner Standing Row with Resistance Tubing,2
+195,Partner Standing Row with Resistance Tubing,3
+196,Partner Standing Row with Resistance Tubing,4
+197,Partner Tricep Extension,1
+198,Partner Tricep Extension,2
+199,Partner Tricep Extension,3
+200,Partner Tricep Extension,4
+201,Partner Tricep Extension,5
+202,Pistol Squat Workout,1
+203,Pistol Squat Workout,2
+204,Plank with Knee Drag,1
+205,Plank with Knee Drag,2
+206,Plank with Knee Drag,3
+207,Push-up with Single-leg Raise,1
+208,Push-up with Single-leg Raise,2
+209,Push-up with Single-leg Raise,3
+210,Quadruped Bent-knee Hip Extensions,1
+211,Quadruped Bent-knee Hip Extensions,2
+212,Reverse Lunge,1
+213,Reverse Lunge,2
+214,Reverse Slam,1
+215,Reverse Slam,2
+216,Reverse Slam,3
+217,Romanian Deadlift,1
+218,Romanian Deadlift,2
+219,Russian Twist,1
+220,Russian Twist,2
+221,Russian Twist,3
+222,Russian Twist,4
+223,Seated Leg Press Exercise,1
+224,Seated Leg Press Exercise,2
+225,Seated Leg Press Exercise,3
+226,Seated Leg Press Exercise,4
+227,Seated Leg Press Exercise,5
+228,Side Lunge,1
+229,Side Lunge,2
+230,Side Lunge,3
+231,Side Lying Hip Abduction,1
+232,Side Lying Hip Abduction,2
+233,Side Lying Hip Adduction,1
+234,Side Lying Hip Adduction,2
+235,Side Plank (Modified),1
+236,Side Plank (Modified),2
+237,Side Plank - modified,1
+238,Side Plank - modified,2
+239,Side Plank with Straight Leg,1
+240,Side Plank with Straight Leg,2
+241,Single Leg Hamstring Curl,1
+242,Single Leg Hamstring Curl,2
+243,Single Leg Push-off,1
+244,Single Leg Push-off,2
+245,Single Leg Push-off,3
+246,Single Leg Push-off,4
+247,Single Leg Romanian Dead Lift,1
+248,Single Leg Romanian Dead Lift,2
+249,Single Leg Squat,1
+250,Single Leg Squat,2
+251,Single Leg Squat,3
+252,Single Leg Squat,4
+253,Single Leg Squat,5
+254,Single Leg Squat,6
+255,"Single-arm, Single-leg Romanian Dead Lift",1
+256,"Single-arm, Single-leg Romanian Dead Lift",2
+257,Single-leg Romanian Deadlift,1
+258,Single-leg Romanian Deadlift,2
+259,Squat Jump,1
+260,Squat Jump,2
+261,Squat Jump,3
+262,Squat Jump,4
+263,Squat Jumps,1
+264,Squat Jumps,2
+265,Squat Jumps,3
+266,Squat Jumps,4
+267,Squat Jumps,5
+268,Squat,1
+269,Squat,2
+270,Stability Ball Hamstring Curl,1
+271,Stability Ball Hamstring Curl,2
+272,Stability Ball Hamstring Curl,3
+273,Stability Ball Reverse Extensions,1
+274,Stability Ball Reverse Extensions,2
+275,Stability Ball Reverse Extensions,3
+276,Stability Ball Wall Squats,1
+277,Stability Ball Wall Squats,2
+278,Standing Gate Openers (Frankensteins),1
+279,Standing Gate Openers (Frankensteins),2
+280,Standing Gate Openers (Frankensteins),3
+281,Standing Gate Openers (Frankensteins),4
+282,Standing Hip Abduction,1
+283,Standing Hip Abduction,2
+284,Standing Hip Adduction,1
+285,Standing Hip Adduction,2
+286,Standing Lunge Stretch,1
+287,Standing Lunge Stretch,2
+288,Standing Triangle Straddle Bends,1
+289,Standing Triangle Straddle Bends,2
+290,Standing Triangle Straddle Bends,3
+291,Step-up,1
+292,Step-up,2
+293,Step-up,3
+294,Sumo Rotational Squats,1
+295,Sumo Rotational Squats,2
+296,Sumo Rotational Squats,3
+297,Sumo Rotational Squats,4
+298,Sumo Rotational Squats,5
+299,Sumo Rotational Squats,6
+300,Sumo Rotational Squats,7
+301,Sumo Rotational Squats,8
+302,Supermans,1
+303,Supermans,2
+304,Supine 90-90 Hip Rotator Stretch,1
+305,Supine 90-90 Hip Rotator Stretch,2
+306,Supine 90-90 Hip Rotator Stretch,3
+307,Supine Hip Flexor Stretch,1
+308,Supine Hip Flexor Stretch,2
+309,Supine Hip Flexor Stretch,3
+310,Supine Shoulder Roll,1
+311,Supine Shoulder Roll,2
+312,Thomas Stretch,1
+313,Thomas Stretch,2
+314,Thomas Stretch,3
+315,Thomas Stretch,4
+316,Transverse Lunge,1
+317,Transverse Lunge,2
+318,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,1
+319,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,2
+320,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,3
+321,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,4
+322,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,5
+323,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,6
+324,TRX ¢ç Assisted Side Lunge with Arm Raise,1
+325,TRX ¢ç Assisted Side Lunge with Arm Raise,2
+326,TRX ¢ç Assisted Side Lunge with Arm Raise,3
+327,TRX ¢ç Hamstrings Curl,1
+328,TRX ¢ç Hamstrings Curl,2
+329,TRX ¢ç Hip Press,1
+330,TRX ¢ç Hip Press,2
+331,TRX ¢ç Suspended Lunge,1
+332,TRX ¢ç Suspended Lunge,2
+333,TRX ¢ç Suspended Lunge,3
+334,Tuck Jump,1
+335,Tuck Jump,2
+336,Tuck Jump,3
+337,Tuck Jump,4
+338,Tuck Jump,5
+339,Walking Abduction,1
+340,Walking Abduction,2
+341,Walking Abduction,3
+342,Walking Abduction,4
+343,Walking Abduction,5
+344,Walking Lunges with Twists,1
+345,Walking Lunges with Twists,2
+346,Walking Lunges with Twists,3
+347,Walking Lunges with Twists,4
+348,Walking Lunges with Twists,5
+349,Walking Lunges with Twists,6
+350,Walking Lunges with Twists,7
+351,Warrior I,1
+352,Warrior I,2

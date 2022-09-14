@@ -1,0 +1,146 @@
+index,training_name,training_index
+1,Bent Knee Push-up,1
+2,Bent Knee Push-up,2
+3,Bent Knee Push-up,3
+4,Bottom-up Press,1
+5,Bottom-up Press,2
+6,Cat-Cow,1
+7,Cat-Cow,2
+8,Cat-Cow,3
+9,Chest Press,1
+10,Chest Press,2
+11,CKC Parascapular Exercises,1
+12,CKC Parascapular Exercises,2
+13,CKC Parascapular Exercises,3
+14,CKC Parascapular Exercises,4
+15,CKC Parascapular Exercises,5
+16,CKC Parascapular Exercises,6
+17,CKC Parascapular Exercises,7
+18,Close-grip Bench Press,1
+19,Close-grip Bench Press,2
+20,Halo,1
+21,Halo,2
+22,Halo,3
+23,Inchworms,1
+24,Inchworms,2
+25,Inchworms,3
+26,Inchworms,4
+27,Inchworms,5
+28,Incline Chest Press,1
+29,Incline Chest Press,2
+30,Incline Chest Press,3
+31,Lying Chest Fly,1
+32,Lying Chest Fly,2
+33,Lying Chest Fly,3
+34,Lying Pullovers,1
+35,Lying Pullovers,2
+36,Medicine Ball Lunge to Chest Pass,1
+37,Medicine Ball Lunge to Chest Pass,2
+38,Medicine Ball Lunge to Chest Pass,3
+39,Medicine Ball Lunge to Chest Pass,4
+40,Medicine Ball Lunge to Chest Pass,5
+41,Medicine Ball Push-ups,1
+42,Medicine Ball Push-ups,2
+43,Medicine Ball Push-ups,3
+44,Medicine Ball Push-ups,4
+45,Medicine Ball Push-ups,5
+46,Offset Single-arm Chest Press,1
+47,Offset Single-arm Chest Press,2
+48,Plank-ups,1
+49,Plank-ups,2
+50,Plank-ups,3
+51,Plank-ups,4
+52,Plank-ups,5
+53,Power Push Down,1
+54,Power Push Down,2
+55,Push-up with Single-leg Raise,1
+56,Push-up with Single-leg Raise,2
+57,Push-up with Single-leg Raise,3
+58,Push-up with Staggered Hands,1
+59,Push-up with Staggered Hands,2
+60,Push-up,1
+61,Push-up,2
+62,Push-up,3
+63,Seated Cable Press,1
+64,Seated Cable Press,2
+65,Seated Cable Press,3
+66,Seated Cable Press,4
+67,Seated Cable Press,5
+68,Seated Chest Press,1
+69,Seated Chest Press,2
+70,Seated Chest Press,3
+71,Seated Chest Press,4
+72,Seated Chest Press,5
+73,Seated Close-Grip Chest Press,1
+74,Seated Close-Grip Chest Press,2
+75,Seated Close-Grip Chest Press,3
+76,Seated Decline Cable Press,1
+77,Seated Decline Cable Press,2
+78,Seated Decline Cable Press,3
+79,Seated Decline Cable Press,4
+80,Seated Decline Cable Press,5
+81,Seated Incline Cable Press,1
+82,Seated Incline Cable Press,2
+83,Seated Incline Cable Press,3
+84,Seated Incline Cable Press,4
+85,Seated Incline Cable Press,5
+86,Single-arm Chest Press,1
+87,Single-arm Chest Press,2
+88,Single-arm Medicine Ball Push-up,1
+89,Single-arm Medicine Ball Push-up,2
+90,Single-arm Medicine Ball Push-up,3
+91,Single-arm Medicine Ball Push-up,4
+92,Single-arm Rotational Press,1
+93,Single-arm Rotational Press,2
+94,Spinal Twist with a Push-Pull Movement,1
+95,Spinal Twist with a Push-Pull Movement,2
+96,Spinal Twist with a Push-Pull Movement,3
+97,Stability Ball Push-Up,1
+98,Stability Ball Push-Up,2
+99,Stability Ball Push-Up,3
+100,Standing Anti-rotation Press,1
+101,Standing Anti-rotation Press,2
+102,Standing Chest Fly,1
+103,Standing Chest Fly,2
+104,Standing Chest Stretch,1
+105,Standing Chest Stretch,2
+106,Standing Decline Cable Flyes,1
+107,Standing Decline Cable Flyes,2
+108,Standing Decline Cable Flyes,3
+109,Standing Decline Cable Flyes,4
+110,Standing Decline Cable Flyes,5
+111,Standing Incline Cable Flyes,1
+112,Standing Incline Cable Flyes,2
+113,Standing Incline Cable Flyes,3
+114,Standing Incline Cable Flyes,4
+115,Standing Incline Cable Flyes,5
+116,Supine Snow Angel (Wipers) Exercise,1
+117,Supine Snow Angel (Wipers) Exercise,2
+118,Supine Snow Angel (Wipers) Exercise,3
+119,Supine Spinal Twist with Rib Grab and Progressions,1
+120,Supine Spinal Twist with Rib Grab and Progressions,10
+121,Supine Spinal Twist with Rib Grab and Progressions,2
+122,Supine Spinal Twist with Rib Grab and Progressions,3
+123,Supine Spinal Twist with Rib Grab and Progressions,4
+124,Supine Spinal Twist with Rib Grab and Progressions,5
+125,Supine Spinal Twist with Rib Grab and Progressions,6
+126,Supine Spinal Twist with Rib Grab and Progressions,7
+127,Supine Spinal Twist with Rib Grab and Progressions,8
+128,Supine Spinal Twist with Rib Grab and Progressions,9
+129,TRX ¢ç Atomic Push-up,1
+130,TRX ¢ç Atomic Push-up,2
+131,TRX ¢ç Atomic Push-up,3
+132,TRX ¢ç Atomic Push-up,4
+133,TRX ¢ç Chest Press,1
+134,TRX ¢ç Chest Press,2
+135,TRX ¢ç Side-straddle Golf Swings,1
+136,TRX ¢ç Side-straddle Golf Swings,2
+137,TRX ¢ç Side-straddle Golf Swings,3
+138,TRX ¢ç Single-arm Chest Press,1
+139,TRX ¢ç Single-arm Chest Press,2
+140,TRX ¢ç Single-arm Chest Press,3
+141,TRX ¢ç Suspended Knee Tucks,1
+142,TRX ¢ç Suspended Knee Tucks,2
+143,TRX ¢ç Suspended Knee Tucks,3
+144,TRX ¢ç Suspended Push-up,1
+145,TRX ¢ç Suspended Push-up,2

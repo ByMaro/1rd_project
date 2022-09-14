@@ -1,0 +1,210 @@
+index,training_name,training_index
+1,Barbell Jammers,1
+2,Barbell Jammers,2
+3,Barbell Jammers,3
+4,Barbell Jammers,4
+5,Barbell Jammers,5
+6,Barbell Jammers,6
+7,Bent Knee Push-up,1
+8,Bent Knee Push-up,2
+9,Bent Knee Push-up,3
+10,Bent-over Row,1
+11,Bent-over Row,2
+12,Bottom-up Press,1
+13,Bottom-up Press,2
+14,Chest Press,1
+15,Chest Press,2
+16,CKC Parascapular Exercises,1
+17,CKC Parascapular Exercises,2
+18,CKC Parascapular Exercises,3
+19,CKC Parascapular Exercises,4
+20,CKC Parascapular Exercises,5
+21,CKC Parascapular Exercises,6
+22,CKC Parascapular Exercises,7
+23,Contralateral Limb Raises,1
+24,Contralateral Limb Raises,2
+25,Contralateral Limb Raises,3
+26,Diagonal Raise,1
+27,Diagonal Raise,2
+28,Front Raise,1
+29,Front Raise,2
+30,Front Raise,3
+31,Halo,1
+32,Halo,2
+33,Halo,3
+34,High Plank T-spine Rotation,1
+35,High Plank T-spine Rotation,2
+36,High Plank T-spine Rotation,3
+37,High Plank T-spine Rotation,4
+38,Inchworms,1
+39,Inchworms,2
+40,Inchworms,3
+41,Inchworms,4
+42,Inchworms,5
+43,Incline Chest Press,1
+44,Incline Chest Press,2
+45,Incline Chest Press,3
+46,Incline Reverse Fly,1
+47,Incline Reverse Fly,2
+48,Incline Reverse Fly,3
+49,Kneeling Reverse Fly,1
+50,Kneeling Reverse Fly,2
+51,Kneeling Reverse Fly,3
+52,Kneeling Reverse Fly,4
+53,Lateral Raise,1
+54,Lateral Raise,2
+55,Lateral Raise,3
+56,Lateral Shoulder Raise,1
+57,Lateral Shoulder Raise,2
+58,Lunge with Overhead Press,1
+59,Lunge with Overhead Press,2
+60,Lunge with Overhead Press,3
+61,Lunge with Overhead Press,4
+62,Lying Chest Fly,1
+63,Lying Chest Fly,2
+64,Lying Chest Fly,3
+65,Medicine Ball Lunge to Chest Pass,1
+66,Medicine Ball Lunge to Chest Pass,2
+67,Medicine Ball Lunge to Chest Pass,3
+68,Medicine Ball Lunge to Chest Pass,4
+69,Medicine Ball Lunge to Chest Pass,5
+70,Medicine Ball Push-ups,1
+71,Medicine Ball Push-ups,2
+72,Medicine Ball Push-ups,3
+73,Medicine Ball Push-ups,4
+74,Medicine Ball Push-ups,5
+75,Overhead Medicine Ball Throws,1
+76,Overhead Medicine Ball Throws,2
+77,Overhead Medicine Ball Throws,3
+78,Overhead Slams,1
+79,Overhead Slams,2
+80,Overhead Slams,3
+81,Overhead Slams,4
+82,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",1
+83,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",2
+84,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",3
+85,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",4
+86,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",5
+87,"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation",6
+88,Push-up with Single-leg Raise,1
+89,Push-up with Single-leg Raise,2
+90,Push-up with Single-leg Raise,3
+91,Push-up,1
+92,Push-up,2
+93,Push-up,3
+94,Reverse Fly,1
+95,Reverse Fly,2
+96,Reverse Slam,1
+97,Reverse Slam,2
+98,Reverse Slam,3
+99,Rotational Overhead Press,1
+100,Rotational Overhead Press,2
+101,Rotational Overhead Press,3
+102,Rotational Uppercut,1
+103,Rotational Uppercut,2
+104,Rotator Cuff External Rotation,1
+105,Rotator Cuff External Rotation,2
+106,Rotator Cuff Internal Rotation,1
+107,Rotator Cuff Internal Rotation,2
+108,Seated High Back Row,1
+109,Seated High Back Row,2
+110,Seated Machine Close-Grip Shoulder Press,1
+111,Seated Machine Close-Grip Shoulder Press,2
+112,Seated Machine Close-Grip Shoulder Press,3
+113,Seated Machine Close-Grip Shoulder Press,4
+114,Seated Machine Close-Grip Shoulder Press,5
+115,Seated Overhead Press,1
+116,Seated Overhead Press,2
+117,Seated Overhead Press,3
+118,Seated Shoulder Press,1
+119,Seated Shoulder Press,2
+120,Seated Shoulder Press,3
+121,Seated Shoulder Press,4
+122,Seated Shoulder Press,5
+123,Shoulder Packing,1
+124,Shoulder Packing,2
+125,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",1
+126,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",10
+127,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",2
+128,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",3
+129,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",4
+130,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",5
+131,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",6
+132,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",7
+133,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",8
+134,"Shoulder Stability-Mobility Series - I, Y, T, W Formations",9
+135,Side-lying Arm Rolls,1
+136,Side-lying Arm Rolls,2
+137,Side-lying Arm Rolls,3
+138,Single Arm Overhead Press,1
+139,Single Arm Overhead Press,2
+140,Single Arm Overhead Squat,1
+141,Single Arm Overhead Squat,2
+142,Single-arm Lateral Raise,1
+143,Single-arm Lateral Raise,2
+144,Single-arm Medicine Ball Push-up,1
+145,Single-arm Medicine Ball Push-up,2
+146,Single-arm Medicine Ball Push-up,3
+147,Single-arm Medicine Ball Push-up,4
+148,Spinal Twist with a Push-Pull Movement,1
+149,Spinal Twist with a Push-Pull Movement,2
+150,Spinal Twist with a Push-Pull Movement,3
+151,Squat to Overhead Raise,1
+152,Squat to Overhead Raise,2
+153,Squat to Overhead Raise,3
+154,Stability Ball Pikes,1
+155,Stability Ball Pikes,2
+156,Stability Ball Pikes,3
+157,Stability Ball Pikes,4
+158,Stability Ball Push-Up,1
+159,Stability Ball Push-Up,2
+160,Stability Ball Push-Up,3
+161,Stability Ball Shoulder Stabilization,1
+162,Stability Ball Shoulder Stabilization,2
+163,Stability Ball Shoulder Stabilization,3
+164,Stability Ball Shoulder Stabilization,4
+165,Stability Ball Shoulder Stabilization,5
+166,Standing Shoulder Press,1
+167,Standing Shoulder Press,2
+168,Supermans,1
+169,Supermans,2
+170,Supine Rotator Cuff,1
+171,Supine Rotator Cuff,2
+172,Supine Rotator Cuff,3
+173,Supine Shoulder Flexion,1
+174,Supine Shoulder Flexion,2
+175,Supine Snow Angel (Wipers) Exercise,1
+176,Supine Snow Angel (Wipers) Exercise,2
+177,Supine Snow Angel (Wipers) Exercise,3
+178,Supine Spinal Twist with Rib Grab and Progressions,1
+179,Supine Spinal Twist with Rib Grab and Progressions,10
+180,Supine Spinal Twist with Rib Grab and Progressions,2
+181,Supine Spinal Twist with Rib Grab and Progressions,3
+182,Supine Spinal Twist with Rib Grab and Progressions,4
+183,Supine Spinal Twist with Rib Grab and Progressions,5
+184,Supine Spinal Twist with Rib Grab and Progressions,6
+185,Supine Spinal Twist with Rib Grab and Progressions,7
+186,Supine Spinal Twist with Rib Grab and Progressions,8
+187,Supine Spinal Twist with Rib Grab and Progressions,9
+188,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,1
+189,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,2
+190,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,3
+191,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,4
+192,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,5
+193,TRX ¢ç Assisted Cross-over Lunge with Arm Raise,6
+194,TRX ¢ç Assisted Side Lunge with Arm Raise,1
+195,TRX ¢ç Assisted Side Lunge with Arm Raise,2
+196,TRX ¢ç Assisted Side Lunge with Arm Raise,3
+197,TRX ¢ç Atomic Push-up,1
+198,TRX ¢ç Atomic Push-up,2
+199,TRX ¢ç Atomic Push-up,3
+200,TRX ¢ç Atomic Push-up,4
+201,TRX ¢ç Side-straddle Golf Swings,1
+202,TRX ¢ç Side-straddle Golf Swings,2
+203,TRX ¢ç Side-straddle Golf Swings,3
+204,TRX ¢ç Suspended Pike,1
+205,TRX ¢ç Suspended Pike,2
+206,TRX ¢ç Suspended Pike,3
+207,TRX ¢ç Suspended Push-up,1
+208,TRX ¢ç Suspended Push-up,2
+209,V-raise,1

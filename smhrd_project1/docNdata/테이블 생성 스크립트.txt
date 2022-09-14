@@ -1,0 +1,43 @@
+--회원 정보 테이블 생성
+create table user_info(
+    user_id varchar(30) not null,
+    user_pw varchar(30) not null,
+    nick_name varchar(30) ,
+    height_val number(5,2) not null,
+    weight_val number(5,2) not null,
+    
+    constraint user_info_user_id_pk PRIMARY key(user_id)
+);
+
+--운동 정보 테이블 생성
+create table training_info (
+    training_index NUMBER(7,0) NOT NULL,
+    training_name varchar(50) not null,
+    training_part varchar(30) not null,
+    training_equip varchar(30) not null,
+    training_dif varchar(30) not null,
+    cnt number(7,0) not null,
+    CONSTRAINT training_info_tindex_pk PRIMARY key(training_index)
+);
+--training_index에 사용할 시퀀스
+create SEQUENCE training_info_tindex_seq START WITH 1 INCREMENT BY 1 MAXVALUE 9999999 NOCYCLE NOCACHE;
+
+--사용자별 운동 정보 테이블 생성
+create table user_training_info(
+    index_no number(7,0) not null,
+    training_index number(7,0) not null,
+    set_val number(7,0) not null,
+    secncnt_val varchar(10) not null,
+    training_date date DEFAULT sysdate not null, 
+    user_id varchar(30) not null,
+    constraint user_training_info_index_pk PRIMARY key(index_no),
+    constraint user_training_info_index_fk FOREIGN key(training_index) REFERENCES training_info(training_index) on delete cascade,
+    constraint user_training_info_id_fk FOREIGN key(user_id) REFERENCES user_info(user_id) on delete cascade
+);
+--rutin_index에 사용할 시퀀스
+create SEQUENCE user_training_info_no_seq START WITH 1 INCREMENT BY 1 MAXVALUE 9999999 NOCYCLE NOCACHE;
+
+--유저id 별 운동 정보 및 일자 생성 스크립트
+create view userid_training_list as 
+select user_id, training_name, set_val,secncnt_val, training_date 
+from training_info ti natural join user_training_info ut natural join user_info ui
