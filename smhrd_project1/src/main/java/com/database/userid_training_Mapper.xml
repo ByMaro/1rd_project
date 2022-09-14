@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace : mapper 파일을 구분할 수 있는 고유 식별자 -->
+<!-- 이름을 지정해줄 때 DAO 클래스 파일명과 일치시키는 경우가 많음 -->
+<mapper namespace="com.model.userid_training_listDAO">
+<!-- parameterType : alias 지정했는지 확인할 것 -->
+
+<!-- 사용자별 운동 반환 -->
+<select id="select_training"
+resultType="com.model.userid_training_listVO"
+>
+select * from userid_training_list
+where user_id = #{user_id}
+</select>
+
+<!-- 진석이 추가한 코드 -->
+<!-- 특정 날짜의 사용자별 운동 조회 -->
+<select id="cal" 
+resultType="com.model.userid_training_listVO"
+parameterType="com.model.userid_training_listVO">
+select training_name,set_val,secncnt_val
+from userid_training_list 
+where training_date LIKE to_date(#{training_date},'YY/MM/DD')
+and user_id = #{user_id}
+
+</select>
+
+
+
+</mapper>

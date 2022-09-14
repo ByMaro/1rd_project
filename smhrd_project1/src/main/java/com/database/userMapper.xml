@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace : mapper 파일을 구분할 수 있는 고유 식별자 -->
+<!-- 이름을 지정해줄 때 DAO 클래스 파일명과 일치시키는 경우가 많음 -->
+<mapper namespace="com.model.user_infoDAO">
+<!-- parameterType : alias 지정했는지 확인할 것 -->
+
+<select id="login"
+parameterType="com.model.user_infoVO"
+resultType="com.model.user_infoVO">
+select * from user_info
+where user_id = #{user_id}
+and user_pw = #{user_pw}
+</select>
+
+<insert id="joininsert"
+parameterType="com.model.user_infoVO">
+insert into user_info
+values(
+#{user_id},
+#{user_pw},
+#{nick_name},
+#{height_val},
+#{weight_val}
+)
+</insert>
+
+</mapper>

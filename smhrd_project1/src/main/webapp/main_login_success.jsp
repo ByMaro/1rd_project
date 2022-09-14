@@ -1,0 +1,94 @@
+<%@page import="java.time.LocalDateTime"%>
+<%@page import="java.time.format.DateTimeFormatter"%>
+<%@page import="com.model.userid_training_listVO"%>
+<%@page import="java.util.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Fitness &amp;amp; Yoga, ​Yoga for Relaxation, ​Gain balance, strength, and flexibility for your body and mind, Our training plan for complete beginners, ​Join Our Newsletter">
+    <meta name="description" content="">
+    <title>main_login_success</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="main_login_success.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <!-- <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script> -->
+    <meta name="generator" content="Nicepage 4.12.14, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i">
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"logo": "images/male-silhouette-variant-showing-muscles.png"
+}</script>
+    <meta name="theme-color" content="#f67460">
+    <meta property="og:title" content="main_login_success">
+    <meta property="og:type" content="website">
+  </head>
+  <body class="u-body u-xl-mode"><header class="u-clearfix u-header u-header" id="sec-fdc6"><div class="u-clearfix u-sheet u-sheet-1">
+ 
+  <%
+  //로그인 성공시의 페이지
+  //오늘자 날짜 데이터를 받음
+  List<userid_training_listVO> vo = (List<userid_training_listVO>)request.getAttribute("vo");
+  
+  DateTimeFormatter format = DateTimeFormatter.ofPattern("yy/MM/dd");
+  String date = format.format(LocalDateTime.now());
+request.getSession().setAttribute("data",date); 
+  
+  %>
+
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="512" data-image-height="512">
+          <img src="images/male-silhouette-variant-showing-muscles.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <h3 class="u-text u-text-default u-text-1">운동 헬스업<br>
+        </h3>
+        <a href="logout" class="u-btn u-btn-round u-button-style u-hover-palette-1-light-1 u-palette-1-base u-radius-50 u-btn-1">로그아웃</a>
+        </div></header> 
+    <section class="u-clearfix u-palette-5-light-2 u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-section-1" id="sec-bf53">
+      <div class="u-container-style u-group u-image u-image-tiles u-image-1" data-image-width="64" data-image-height="80" data-animation-name="customAnimationIn" data-animation-duration="1250" data-animation-delay="0">
+        <div class="u-container-layout u-container-layout-1"></div>
+      </div>
+      <div class="u-expanded-width u-hidden-xs u-palette-1-light-1 u-shape u-shape-rectangle u-shape-1" data-animation-name="customAnimationIn" data-animation-duration="250"></div>
+      <div class="u-hidden-xs u-palette-1-base u-radius-12 u-shape u-shape-round u-shape-2" data-animation-name="customAnimationIn" data-animation-duration="750" data-animation-delay="0"></div>
+      <div class="u-image u-image-circle u-image-2" data-image-width="512" data-image-height="512" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="250"></div>
+      <div class="u-container-style u-group u-radius-12 u-shape-round u-white u-group-2" data-animation-name="customAnimationIn" data-animation-duration="1500">
+        <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-container-layout-2">
+          <h1 class="u-text u-text-1" align="center">운동 헬스업?</h1>
+          <p class="u-text u-text-2">PT를 받기에는 돈이 너무 비싸죠?<br> 혼자 운동 하기에는 정보가 너무 없고<br><br> 간단한 설문을 통해 여러분이 원할만한 운동을 추천 해드릴게요</p>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-white u-section-2" id="carousel_7923">
+      <div class="u-expanded-width u-palette-5-light-2 u-shape u-shape-rectangle u-shape-1"></div>
+      <div class="u-list u-list-1">
+        <div class="u-repeater u-repeater-1">
+          <div class="u-align-center u-container-style u-list-item u-radius-12 u-repeater-item u-shape-round u-white u-list-item-1">
+            <div class="u-container-layout u-similar-container u-container-layout-1">
+            
+            <a href="select_index"><span class="u-align-left u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-1"><img src="images/5.png" alt=""></span></a>
+              <h5 class="u-custom-font u-text u-text-default u-text-font u-text-1">오늘의 운동 추천</h5>
+              <p class="u-text u-text-palette-5-dark-2 u-text-2">오늘 뭐 하지 내일 뭐 하지<br>이제는 고민하지 마세요.<br>저희가 하루 하루 "추천" 해드릴게요</p>
+            </div>
+          </div>
+          <div class="u-align-center u-container-style u-list-item u-radius-12 u-repeater-item u-shape-round u-white u-list-item-2">
+            <div class="u-container-layout u-similar-container u-container-layout-2"><a href="cal.jsp"> <span class="u-align-left u-icon u-icon-circle u-palette-1-base u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 60 60" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-555d"></use></svg><svg class="u-svg-content" viewBox="0 0 60 60" id="svg-555d"><g id="027---Hydrotherapy"><path id="Shape" d="m30 60c3.3386495.0075123 6.6724636-.2543371 9.969-.783 24-3.861 26.981-19.074 5.957-25.106-1.071-8.138-14.633-21.255-15.234-21.832-.3868237-.3708033-.9971763-.3708033-1.384 0-.6.577-14.163 13.694-15.234 21.832-8.822 2.531-14.074 6.944-14.074 11.889 0 7.851 13.178 14 30 14zm0-45.6c4.476 4.438 14 15.056 14 20.693 0 7.116-6.28 12.907-14 12.907s-14-5.791-14-12.909c0-5.637 9.524-16.255 14-20.691zm-15.94 21.8c.0926866 1.198509.340074 2.3799858.736 3.515-5.683 1.477-8.796 3.692-8.796 6.285 0 .5522847.44771525 1 1 1s1-.4477153 1-1c0-1.277 2.366-3.108 7.612-4.431 2.8586962 5.2636904 8.3986473 8.5099601 14.388 8.431 8.422 0 15.329-6.1 15.94-13.8 7.47 2.254 12.06 5.953 12.06 9.8 0 4.882-7.546 9.505-18.352 11.243-17.914 2.926-37.648-3.023-37.648-11.243 0-3.847 4.59-7.546 12.06-9.8z"></path><path id="Shape" d="m30 54c11.635 0 24-2.8 24-8 0-.5522847-.4477153-1-1-1s-1 .4477153-1 1c0 2.505-8.369 6-22 6-.5522847 0-1 .4477153-1 1s.4477153 1 1 1z"></path><path id="Shape" d="m19 36.091c.5522847 0 1-.4477153 1-1 0-2.562 4.511-9.175 10.725-15.724.380248-.4009587.3634587-1.0342519-.0375-1.4145-.4009587-.380248-1.0342519-.3634587-1.4145.0375-5.2 5.481-11.273 13.249-11.273 17.101 0 .5522847.4477153 1 1 1z"></path><path id="Shape" d="m25 5c0 2.76142375 2.2385763 5 5 5s5-2.23857625 5-5-2.2385763-5-5-5c-2.7600532.00330612-4.9966939 2.23994685-5 5zm8 0c0 1.65685425-1.3431458 3-3 3s-3-1.34314575-3-3 1.3431458-3 3-3 3 1.34314575 3 3z"></path><circle id="Oval" cx="20" cy="39" r="1"></circle>
+</g></svg></span> </a>
+              <h5 class="u-custom-font u-text u-text-default u-text-font u-text-3">운동 기록</h5>
+              <p class="u-text u-text-palette-5-dark-2 u-text-4">캘린더에서 날짜만 선택하면&nbsp;<br>여러분이 그날 어떤 운동을 하였는지&nbsp;<br>알려드릴게요</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-80dc"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">created with 진석, 지민, 민호, 규창, 감중</p>
+      </div></footer>
+   
+  </body>
+</html>

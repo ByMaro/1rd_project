@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace : mapper 파일을 구분할 수 있는 고유 식별자 -->
+<!-- 이름을 지정해줄 때 DAO 클래스 파일명과 일치시키는 경우가 많음 -->
+<mapper namespace="com.model.training_infoDAO">
+<!-- parameterType : alias 지정했는지 확인할 것 -->
+
+<!-- 추천 받은 운동 저장 -->
+<insert id="rutininsert"
+parameterType="com.model.training_infoVO">
+insert into training_rutin_info
+values(
+training_rutin_index_seq.nextval,
+#{user_id},
+#{training_name},
+#{myobject},
+#{start_date},
+#{end_date}
+)
+</insert>
+
+</mapper>

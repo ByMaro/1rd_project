@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace : mapper 파일을 구분할 수 있는 고유 식별자 -->
+<!-- 이름을 지정해줄 때 DAO 클래스 파일명과 일치시키는 경우가 많음 -->
+<mapper namespace="com.model.reco_for_training_infoDAO">
+<!-- parameterType : alias 지정했는지 확인할 것 -->
+
+<!-- 운동 추천 가중치 초기화 -->
+<select id="training_score_init"
+resultType="com.model.reco_for_training_infovo">
+select training_index , training_part,training_equip,training_dif 
+from training_info
+</select>
+
+<!-- 1일전 운동 기록 조회 -->
+<select id="reco_one_yesterday_training_parts" resultType="String">
+   select ti.training_part 
+   from training_info ti join userid_training_list utl 
+   on ti.training_name = utl.training_name 
+   where to_char(utl.training_date,'YY/MM/DD') like sysdate-1 and utl.user_id=#{user_id}
+</select>
+
+<!-- 2일전 운동 기록 조회 -->
+<select id="reco_two_yesterday_training_parts" resultType="String">
+   select ti.training_part 
+   from training_info ti join userid_training_list utl 
+   on ti.training_name = utl.training_name 
+   where to_char(utl.training_date,'YY/MM/DD') like sysdate-2 and utl.user_id=#{user_id}
+</select>
+
+
+<!-- 오늘자 사용자의 운동 정보 조회  -->
+<select id="reco_today_training_parts" resultType="com.model.today_user_trainingVO" parameterType="String">
+select ti.training_index,ti.training_name, ti.cnt, uti.set_val, uti.secncnt_val
+from training_info ti join user_training_info uti
+on ti.training_index = uti.training_index
+where ti.training_index in
+(select training_index 
+from user_training_info 
+where training_date 
+like sysdate and user_id = #{user_id})
+</select>
+
+
+
+
+</mapper>

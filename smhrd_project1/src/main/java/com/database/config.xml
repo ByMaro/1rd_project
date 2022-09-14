@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+  <environments default="development">
+    <environment id="development">
+      <transactionManager type="JDBC"/>
+      <dataSource type="POOLED">
+      <!-- 프로젝트 때는 property 만 수정하기 -->
+        <property name="driver" value="oracle.jdbc.driver.OracleDriver"/>
+        <property name="url" value="jdbc:oracle:thin:@localhost:1521:xe"/>
+        <property name="username" value="project_test"/>
+        <property name="password" value="1234"/>
+      </dataSource>
+    </environment>
+  </environments>
+  
+  <!-- 내가 사용할 실제 sql 파일이 들어있는 mapper로 설정해줄 것 -->
+  
+  <mappers>
+    <mapper resource="com/database/userMapper.xml"/>
+    <mapper resource="com/database/training_Mapper.xml"/>
+    <mapper resource="com/database/userid_training_Mapper.xml"/>
+    <mapper resource="com/database/user_training_Mapper.xml"/>
+    <mapper resource="com/database/reco_mapper.xml"/>
+    <mapper resource="com/database/training_info_Mapper.xml"/>
+  </mappers>
+</configuration>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace : mapper 파일을 구분할 수 있는 고유 식별자 -->
+<!-- 이름을 지정해줄 때 DAO 클래스 파일명과 일치시키는 경우가 많음 -->
+<mapper namespace="com.model.user_training_infoDAO">
+<!-- parameterType : alias 지정했는지 확인할 것 -->
+
+<!-- 운동 추천 여부 확인 : 추천 받았다면 운동 정보 1개 반환 -->
+<select id="select_index" resultType="com.model.user_training_infoVO" parameterType="String">
+select * from user_training_info
+where user_id = #{user_id} and to_char(training_date,'yy/mm/dd') = to_char(sysdate,'yy/mm/dd') and ROWNUM = 1
+</select>
+
+
+<!-- 사용자별 추천 운동 저장 -->
+<insert id="surveyinsert" parameterType="com.model.user_training_infoVO">
+	    insert into user_training_info
+		values(
+		USER_TRAINING_INFO_NO_SEQ.nextval,
+		#{training_index},
+		#{set_val},
+		#{secncnt_val},
+		sysdate,
+		#{user_id}
+		)
+	</insert>
+
+
+
+
+</mapper>
